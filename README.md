@@ -1,0 +1,1 @@
+# thermal_imagedetect_temp
