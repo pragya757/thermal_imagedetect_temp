@@ -19,6 +19,18 @@ GUI with Tkinter: Provides an interactive interface for capturing images and vie
 **NumPy (Data Processing)**
 **PIL (Image Processing)**
 
+## System Requirements
+- Python 3.8+
+- OpenCV
+- MySQL Server
+- Tkinter (comes preinstalled with Python)
+- NumPy, PIL (install via pip)
+
+## Run Instructions
+1. Clone the repo
+2. Set up the MySQL database with disease-temperature pairs.
+3. Run `python main.py`
+
 # Usage
 
 The live thermal camera feed will appear in the GUI.
